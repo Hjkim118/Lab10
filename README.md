@@ -18,3 +18,7 @@ Google Analytics and Google Tag Manager have been integrated into this project f
 ## A/B Testing
 
 A simple A/B test is implemented by randomly applying a blue theme to the page using JavaScript.
+
+## Tag Assistant Verification
+
+![Tag Assistant](tag-assistant.png)
